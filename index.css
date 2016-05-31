@@ -1,0 +1,70 @@
+.changes {
+  display: inline-block;
+  width: 20%;
+  float:left;
+  text-align:inherit;
+}
+
+/*.form-group {
+  padding-left: 150px;
+  border: 1px;
+}
+*/
+
+#header {
+  padding-left:20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#dollar {
+    display: flex;
+    justify-content:space-around;
+    border: 1px solid #ccc;
+    background: #f2f2f2;
+    text-align:center;
+  margin: 0 auto;
+}
+
+#dolla {
+  text-align:center;
+  margin: 0 auto;
+}
+
+#dollars {
+  text-align: center;
+}
+
+#monies {
+
+    display: flex;
+    justify-content:space-around;
+    border: 1px solid #ccc;
+    background: #f2f2f2;
+    
+  /*
+    margin: auto;
+    width: 70%;
+    border: 1px solid #ccc;
+    padding: 100px;
+    text-align: center;
+    background: #f2f2f2;
+*/
+  
+}
+
+#boxes {
+    display: flex;
+    justify-content:space-around;
+    border: 1px solid #ccc;
+    background: #f2f2f2;
+  margin: 0 auto;
+  
+}
+
+label {
+  width:;
+}
+
+h2 {
+  margin: 0 auto;
+}
